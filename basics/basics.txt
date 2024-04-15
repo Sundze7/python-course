@@ -1,0 +1,27 @@
+NOTES
+-------------------------
+> python code gets interpreted (by the interpreter) line by line from the top during runtime
+> python is case sensitive
+> snake casing is used for naming vars e.g my_var
+> use tripple quotes (either single or double) for multi-line strings e.g in writing emails
+> methods are fxns that are particular to a certain class
+> x = x + 3  is the same as X += 3 
+
+VAR
+--------
+> used to store data temporarily in computer memory
+
+DATA TYPES
+-------
+string
+int
+float
+boolean
+list
+tuple
+dict
+
+FUNCTIONS
+-----------
+A block of code that performs a particular task
+
