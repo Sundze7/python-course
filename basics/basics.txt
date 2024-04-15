@@ -23,5 +23,30 @@ dict
 
 FUNCTIONS
 -----------
-A block of code that performs a particular task
+> A block of code that performs a particular task
+> parameter vs argument: the former is a placeholder we define in our function for receiving info while the latter is the actual value (or data)
+we pass to the function
+> Positional vs key-word arguments: the former is position specific while with the latter, position does not matter 
+
+ARITHMETIC OPERATORS
+----------
++, -, *, /, %, **
+
+ASSIGNMENT OPERATORS
+----------
+=, +=, -=, *=, /=, %=, **=
+
+COMPARISON OPERATORS
+----------
+==, !=, >, <, >=, <=
+
+LOGICAL OPERATORS
+----------
+and, or, not
+
+CONDITIONAL STATEMENTS
+----------
+if, elif, else
+
+LOOPS
 
